@@ -1,6 +1,8 @@
 <a href="https://badge.fury.io/js/web-launcher"><img src="https://badge.fury.io/js/web-launcher.svg" alt="npm version" height="18"></a>
 
 # Web Launcher
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2FWebLauncher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2FWebLauncher?ref=badge_shield)
+
 
 A CLI for quickly launching the websites you use.
 
@@ -53,3 +55,7 @@ help    			         Print help menu.
 
 Key: [alias] {arg} ?{optionalArg}
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2FWebLauncher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2FWebLauncher?ref=badge_large)
